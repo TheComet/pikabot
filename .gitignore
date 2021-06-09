@@ -1,0 +1,14 @@
+# Build files
+/venv
+
+# IDE files
+/.idea
+
+# Temporary files
+*.swp
+
+# Generated files
+__pycache__
+/config
+/.pikabot.log
+
